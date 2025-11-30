@@ -1,0 +1,270 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "2f4c15b3-8cc3-42dd-8fd5-f75a8a30a690")
+	(paper "A4")
+	(lib_symbols)
+	(text "Proprietary RF Module (nRF24L01+)\n\nModule for proprietary 2.4 GHz communication,\nideal for point-to-point links and low-latency\ndata transmission.\nBased on the nRF24L01+ with its own LDO,\nmatching network, antenna, and ESD protection.\nReuses the same 20-pin expansion interface as \nthe Zigbee module (shared SPI, IRQ, I²C).\nAdditional CE line controlled from the Main Board.\nIncludes an identification EEPROM for automatic \ndetection and configuration."
+		(exclude_from_sim no)
+		(at 236.22 139.192 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "66cd3675-5d10-4aa6-be40-78b6f9067048")
+	)
+	(text "Main Board (ESP32-S3 + Power System)\n\nCentral controller of the entire platform.\nIncludes power conversion (12V → 5V → 3.3V), \nsmart battery system, GPIO expansion, \nand the main ESP32-S3 processor.\nAll RF modules connect through a unified 20-pin \nexpansion header carrying SPI, I²C, UART, IRQ, and power rails.\nEach RF module is power-gated (EN_LDO) from the Main Board \nto reduce interference and optimize energy consumption."
+		(exclude_from_sim no)
+		(at 59.436 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6d07d82e-8a24-4e5c-adb8-b464e13f9cc6")
+	)
+	(text "Zigbee/Thread Module (EFR32MG24)\n\nDedicated IEEE 802.15.4 module supporting Zigbee, \nThread, and Matter.\nIncludes local LDO, RF matching network, \nantenna options,Ç mandatory decoupling and \nan ID-EEPROM for automatic module detection.\nCommunicates with the Main Board using \nSPI + IRQ and is fully power-controlled \nthrough the expansion header.\nDesigned for low-power mesh networks, \nsmart-home devices, and sensor applications."
+		(exclude_from_sim no)
+		(at 148.082 140.208 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b96f34d4-a456-4c73-a6c6-e6bdfba82a04")
+	)
+	(text "MODULAR MULTI PROTOCOL HUB\n\nArchitecture based on interchangeable RF modules sharing a common 20-pin interface.\nEach module features local power regulation, ID detection, and independent enable control, \nensuring low RF interference and maximum flexibility for multi-radio systems."
+		(exclude_from_sim no)
+		(at 140.716 39.37 0)
+		(effects
+			(font
+				(size 3 3)
+			)
+		)
+		(uuid "ba95cdb4-345b-4f4a-895a-d615cf3533ef")
+	)
+	(polyline
+		(pts
+			(xy 17.272 16.764) (xy 17.272 161.036)
+		)
+		(stroke
+			(width 0.3)
+			(type dash)
+		)
+		(uuid "3775b251-e79e-43c1-addf-80a13d68b11c")
+	)
+	(polyline
+		(pts
+			(xy 101.854 161.036) (xy 101.854 57.912)
+		)
+		(stroke
+			(width 0.3)
+			(type dash)
+		)
+		(uuid "54c631d1-5a5a-49f4-a585-0de8a6955ad2")
+	)
+	(polyline
+		(pts
+			(xy 192.024 161.036) (xy 192.786 161.036)
+		)
+		(stroke
+			(width 0.3)
+			(type dash)
+		)
+		(uuid "688401a9-7655-4ea0-bc5c-2e697663a7c2")
+	)
+	(polyline
+		(pts
+			(xy 17.272 16.764) (xy 279.4 16.764)
+		)
+		(stroke
+			(width 0.3)
+			(type dash)
+		)
+		(uuid "70fffd27-720b-494d-8f3e-6aebde1bd066")
+	)
+	(polyline
+		(pts
+			(xy 192.024 57.404) (xy 192.024 161.036)
+		)
+		(stroke
+			(width 0.3)
+			(type dash)
+		)
+		(uuid "968e787e-c3d7-4e55-b2c8-dabfa9f051e0")
+	)
+	(polyline
+		(pts
+			(xy 279.4 16.764) (xy 279.4 161.29)
+		)
+		(stroke
+			(width 0.3)
+			(type dash)
+		)
+		(uuid "a40e739b-58fe-4973-bfef-c2ef503dd45c")
+	)
+	(polyline
+		(pts
+			(xy 17.272 161.036) (xy 279.4 161.036)
+		)
+		(stroke
+			(width 0.3)
+			(type dash)
+		)
+		(uuid "acc51adc-2be7-41b4-8852-f5a030e898f7")
+	)
+	(polyline
+		(pts
+			(xy 101.6 57.912) (xy 101.854 57.912)
+		)
+		(stroke
+			(width 0.3)
+			(type dash)
+		)
+		(uuid "b9c29cfa-5062-449a-961a-e5d2fb590fad")
+	)
+	(polyline
+		(pts
+			(xy 17.272 57.404) (xy 279.146 57.404)
+		)
+		(stroke
+			(width 0.3)
+			(type dash)
+		)
+		(uuid "efac8170-8e59-4bc2-96f6-3643645014f9")
+	)
+	(sheet
+		(at 219.202 76.962)
+		(size 32.766 37.592)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "03e859a1-1cae-4480-919d-2ba03c99f540")
+		(property "Sheetname" "Proprietary Communication Module"
+			(at 219.202 76.2504 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "propietary.kicad_sch"
+			(at 219.202 115.1386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Hub"
+				(path "/2f4c15b3-8cc3-42dd-8fd5-f75a8a30a690"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 131.064 77.216)
+		(size 31.75 37.592)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6d806a1d-03a1-4b2b-a6c8-b6633f09980b")
+		(property "Sheetname" "Zigbee-Thread Module"
+			(at 131.064 76.5044 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "zigbee/thread.kicad_sch"
+			(at 131.064 115.3926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Hub"
+				(path "/2f4c15b3-8cc3-42dd-8fd5-f75a8a30a690"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 42.164 76.708)
+		(size 31.496 37.846)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "746d0140-9bed-4677-9571-c0a9a363fe50")
+		(property "Sheetname" "Main Board"
+			(at 42.164 75.9964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "main.kicad_sch"
+			(at 42.164 115.1386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Hub"
+				(path "/2f4c15b3-8cc3-42dd-8fd5-f75a8a30a690"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

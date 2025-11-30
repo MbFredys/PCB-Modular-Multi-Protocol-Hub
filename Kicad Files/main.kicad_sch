@@ -1,0 +1,734 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "01bd64b5-fc58-4804-8967-c315df8f9313")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 184.15 85.09) (xy 199.39 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05f5756d-575b-4037-8367-8c480e732b0f")
+	)
+	(wire
+		(pts
+			(xy 184.15 97.79) (xy 199.39 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "299d2a25-811f-4184-8bd1-d5ef15c98ac7")
+	)
+	(wire
+		(pts
+			(xy 100.33 90.17) (xy 118.11 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a167e64-0d24-4dde-96f1-828cabfab2b6")
+	)
+	(wire
+		(pts
+			(xy 100.33 102.87) (xy 118.11 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36d3cdfd-d3bc-499a-bd92-6a814243e2bc")
+	)
+	(wire
+		(pts
+			(xy 100.33 92.71) (xy 118.11 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "371ba74c-d27d-4a74-b1d7-c7cd3f739236")
+	)
+	(wire
+		(pts
+			(xy 184.15 92.71) (xy 199.39 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3caca2ef-a37a-4a17-acab-2bb577ee0f05")
+	)
+	(wire
+		(pts
+			(xy 184.15 87.63) (xy 199.39 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "523ce0c2-1ccf-4f83-9d4b-9a773109c57e")
+	)
+	(wire
+		(pts
+			(xy 184.15 82.55) (xy 199.39 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5daa8c31-668e-4414-905b-8fb0c1db3ad2")
+	)
+	(wire
+		(pts
+			(xy 100.33 81.28) (xy 118.11 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "717d62c2-80f5-4ac2-85f3-5044e81b8a29")
+	)
+	(wire
+		(pts
+			(xy 100.33 100.33) (xy 118.11 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76fd84fc-7aed-4cd2-9f83-805aa13547d5")
+	)
+	(wire
+		(pts
+			(xy 184.15 80.01) (xy 199.39 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f3a687c-9fd4-43b7-b29a-533aa23534a7")
+	)
+	(wire
+		(pts
+			(xy 100.33 78.74) (xy 118.11 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ef53d89-b599-4179-8c6c-faf9493e21c0")
+	)
+	(wire
+		(pts
+			(xy 184.15 100.33) (xy 199.39 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91e373a1-c9fd-46d6-b885-4cdad015dfc6")
+	)
+	(wire
+		(pts
+			(xy 100.33 105.41) (xy 118.11 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9854ad49-8434-473d-9cd2-f98065d9f1f5")
+	)
+	(wire
+		(pts
+			(xy 100.33 87.63) (xy 118.11 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9991634b-855f-405b-b9c6-c7fa756f36bf")
+	)
+	(wire
+		(pts
+			(xy 100.33 97.79) (xy 118.11 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99e61cbe-1119-4f0d-90c5-42971bd6f9f3")
+	)
+	(wire
+		(pts
+			(xy 100.33 110.49) (xy 118.11 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdc02bc1-586b-494c-8fbd-271cef073adc")
+	)
+	(wire
+		(pts
+			(xy 184.15 90.17) (xy 199.39 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4d4f27a-32e3-417f-aad7-ba3b16536d19")
+	)
+	(wire
+		(pts
+			(xy 184.15 102.87) (xy 199.39 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa5590bc-7ccf-4184-b07f-661d66183d42")
+	)
+	(wire
+		(pts
+			(xy 184.15 95.25) (xy 199.39 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fea66eb2-0487-4319-a178-a6bd411b004f")
+	)
+	(sheet
+		(at 61.976 62.738)
+		(size 38.354 60.96)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "17dfbcd1-d789-4df9-94a9-b32258aaeb8d")
+		(property "Sheetname" "MainB_PWR"
+			(at 61.976 62.0264 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mainb_pwr.kicad_sch"
+			(at 61.976 124.2826 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CE_ESP32{slash}MCP73871" input
+			(at 100.33 105.41 0)
+			(uuid "4d468ccf-408c-496c-b019-ae416a3b9b1d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ESP32{slash}USB_D+" input
+			(at 100.33 78.74 0)
+			(uuid "de6a3840-c1a9-4026-8fe5-5748c89bdedc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ESP32{slash}USB_D-" input
+			(at 100.33 81.28 0)
+			(uuid "7a0d346b-d958-4b64-ba63-fcd7abb9cabd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SCL_LC7092{slash}ESP32" input
+			(at 100.33 87.63 0)
+			(uuid "cf5daf52-42ee-4bf6-91db-9f5aaf44fd6e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C_SDA_LC7092{slash}ESP32" input
+			(at 100.33 90.17 0)
+			(uuid "0355024c-f04c-4603-a47b-d30801800411")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INT_LC7092{slash}ESP32" input
+			(at 100.33 92.71 0)
+			(uuid "f34e4a1e-c79d-49da-99ab-663da3a76bd8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWR_SEL_ESP32{slash}MCP73871" input
+			(at 100.33 97.79 0)
+			(uuid "44c46893-c881-4571-abc4-ddefaebe037b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "STATE_LTC4412{slash}ESP32" input
+			(at 100.33 110.49 0)
+			(uuid "76fa5d18-b035-40ae-a7a9-376c89c57368")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TIMER_ESP32{slash}MCP73871" input
+			(at 100.33 100.33 0)
+			(uuid "8cd89622-648b-49e7-8d7c-435079d2fef4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_ISEL_ESP32{slash}MCP73871" input
+			(at 100.33 102.87 0)
+			(uuid "63329e0b-5008-4cb1-9888-9b019154b35c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Hub"
+				(path "/2f4c15b3-8cc3-42dd-8fd5-f75a8a30a690/746d0140-9bed-4677-9571-c0a9a363fe50"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 199.39 63.246)
+		(size 43.688 60.198)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a865bf2b-fa8d-47cc-a9f7-d93751112d1a")
+		(property "Sheetname" "Ethernet"
+			(at 199.39 62.5344 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ethernet.kicad_sch"
+			(at 199.39 124.0286 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ESP32{slash}LAN87_CRS_DV" input
+			(at 199.39 80.01 180)
+			(uuid "9aba7b25-8d67-4695-bbbe-0362f2a180b7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ESP32{slash}LAN87_MDC" input
+			(at 199.39 82.55 180)
+			(uuid "12371b2b-7a38-48b8-ba5d-a825257cf3cf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ESP32{slash}LAN87_MDIO" input
+			(at 199.39 85.09 180)
+			(uuid "c4f90794-c01e-4077-9dbb-61a4640646a0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ESP32{slash}LAN87_nRST" input
+			(at 199.39 87.63 180)
+			(uuid "9d87df19-a7b0-4624-a2b2-498a4cd3cda3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ESP32{slash}LAN87_REFCLKO" input
+			(at 199.39 90.17 180)
+			(uuid "8f098968-6f21-481e-bdcf-d7e1509ab45b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ESP32{slash}LAN87_RXD0" input
+			(at 199.39 92.71 180)
+			(uuid "0d2baba9-0a69-4510-9c02-ed7ac8f0c303")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ESP32{slash}LAN87_RXD1" input
+			(at 199.39 95.25 180)
+			(uuid "b5decd1c-051c-447b-8097-0e70b049aa01")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ESP32{slash}LAN87_TXD0" input
+			(at 199.39 97.79 180)
+			(uuid "e10b8f3d-3753-45ae-a21d-d5af6209412b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ESP32{slash}LAN87_TXD1" input
+			(at 199.39 100.33 180)
+			(uuid "adac5848-bd26-4c35-815e-3062386b97ba")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ESP32{slash}LAN87_TXEN" input
+			(at 199.39 102.87 180)
+			(uuid "9c11c5d6-cf4b-42a5-9e70-c44a73f2384c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Hub"
+				(path "/2f4c15b3-8cc3-42dd-8fd5-f75a8a30a690/746d0140-9bed-4677-9571-c0a9a363fe50"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 118.11 55.88)
+		(size 66.04 77.978)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c617ad80-8c47-4b94-a7d8-06a587bf9153")
+		(property "Sheetname" "MainB_CTRL"
+			(at 118.11 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mainb_ctrl.kicad_sch"
+			(at 118.11 134.4426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CE_ESP32{slash}MCP73871" input
+			(at 118.11 105.41 180)
+			(uuid "bb5d1284-940e-4590-9188-548a50bd836e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ESP32{slash}USB_D+" input
+			(at 118.11 78.74 180)
+			(uuid "30676dbc-056f-4d31-98d8-4dbbd9318093")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ESP32{slash}USB_D-" input
+			(at 118.11 81.28 180)
+			(uuid "ff2c55af-2662-42a5-9fe3-cc7490b45ef7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SCL_LC7092{slash}ESP32" input
+			(at 118.11 87.63 180)
+			(uuid "760be355-ab0e-4dc0-8b7a-24e69867e9f2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C_SDA_LC7092{slash}ESP32" input
+			(at 118.11 90.17 180)
+			(uuid "1654ac55-5117-4ed3-9c55-465a301e14af")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "INT_LC7092{slash}ESP32" input
+			(at 118.11 92.71 180)
+			(uuid "b5227e28-2b54-47ce-9f34-a25052d5627c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWR_SEL_ESP32{slash}MCP73871" input
+			(at 118.11 97.79 180)
+			(uuid "a01749ab-aee7-43a0-a1b9-a703f59b6f6d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "STATE_LTC4412{slash}ESP32" input
+			(at 118.11 110.49 180)
+			(uuid "ed02203b-9402-48e2-8b13-a7b51e0098dd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TIMER_ESP32{slash}MCP73871" input
+			(at 118.11 100.33 180)
+			(uuid "d5b99fd9-2a8e-422c-9920-8dc5f8fdbcda")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_ISEL_ESP32{slash}MCP73871" input
+			(at 118.11 102.87 180)
+			(uuid "76a668d1-a903-48d8-a783-ad1231c08c3f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ESP32{slash}LAN87_CRS_DV" input
+			(at 184.15 80.01 0)
+			(uuid "19843489-f036-46b8-bf1d-5248a0a252ae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ESP32{slash}LAN87_MDC" input
+			(at 184.15 82.55 0)
+			(uuid "b8b2443d-d12a-4d1b-801b-0851acd2450b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ESP32{slash}LAN87_MDIO" input
+			(at 184.15 85.09 0)
+			(uuid "78499f00-6366-455d-bd37-3d7825a93775")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ESP32{slash}LAN87_nRST" input
+			(at 184.15 87.63 0)
+			(uuid "17542f39-52ba-4233-b4fb-a2fa8b392e6a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ESP32{slash}LAN87_REFCLKO" input
+			(at 184.15 90.17 0)
+			(uuid "2baf13bc-381c-4324-a060-6c4f366ff452")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ESP32{slash}LAN87_RXD0" input
+			(at 184.15 92.71 0)
+			(uuid "a4f24efd-6d7e-4590-bcba-c6b2e41a4f97")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ESP32{slash}LAN87_RXD1" input
+			(at 184.15 95.25 0)
+			(uuid "84895e98-a1bd-4b95-9ffa-650fd830d005")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ESP32{slash}LAN87_TXD0" input
+			(at 184.15 97.79 0)
+			(uuid "b4f7370c-50f0-4bae-b96c-cfe8cb216b05")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ESP32{slash}LAN87_TXD1" input
+			(at 184.15 100.33 0)
+			(uuid "ecffb7ad-cb31-47c4-a474-4ec7f91c1220")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ESP32{slash}LAN87_TXEN" input
+			(at 184.15 102.87 0)
+			(uuid "8a414ef3-87ef-4e72-8773-75e7e657dcf7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Hub"
+				(path "/2f4c15b3-8cc3-42dd-8fd5-f75a8a30a690/746d0140-9bed-4677-9571-c0a9a363fe50"
+					(page "4")
+				)
+			)
+		)
+	)
+)
