@@ -1,4 +1,6 @@
 # ⚡ Universal Smart-Home Modular Hub  
+[![License: CERN-OHL-W-2.0](https://img.shields.io/badge/license-CERN--OHL--W%202.0-blue.svg)](https://ohwr.org/projects/cern-ohl/wikis/CERN-OHL-version-2)
+
 A compact, scalable, multi-protocol communication platform designed for modern smart homes.  
 Built around a powerful **ESP32-S3**, with plug-in radio modules for Zigbee/Thread and Proprietary RF.  
 Reliable power architecture, clean RF design, and automatic module detection.
@@ -196,4 +198,6 @@ The ESP32 reads the EEPROM via I²C on boot and:
 ---
 
 # 🪪 License  
-This project is licensed under the MIT License. See the [MIT License ↗](https://opensource.org/license/mit/) file for more information.
+This project is licensed under the CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W-2.0).
+See the [CERN-OHL-W-2.0 ↗](https://ohwr.org/projects/cern-ohl/wikis/CERN-OHL-version-2) file for more information.
+
