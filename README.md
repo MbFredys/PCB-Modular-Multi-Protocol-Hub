@@ -199,5 +199,5 @@ The ESP32 reads the EEPROM via I²C on boot and:
 
 # 🪪 License  
 This project is licensed under the CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W-2.0).
-See the [CERN-OHL-W-2.0 ↗]([https://ohwr.org/projects/cern-ohl/wikis/CERN-OHL-version-2](https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/3eff4154d05e7a0459f3ddbf0674cae4/cern_ohl_p_v2.txt)) file for more information.
+See the [CERN-OHL-W-2.0 ↗]([[https://ohwr.org/projects/cern-ohl/wikis/CERN-OHL-version-2](https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/3eff4154d05e7a0459f3ddbf0674cae4/cern_ohl_p_v2.txt)](https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt)) file for more information.
 
